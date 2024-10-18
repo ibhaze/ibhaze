@@ -5,7 +5,7 @@ portfolio.
 ### Merging Critical Thinking, Research & Creativity.
 - 📫 You can reach me @ [ibhazepraise7@gmail.com](mailto:ibhazepraise7@gmail.com)
 - 🌱 I’m currently learning smart mobile , focusing on designing & developing mobile
-- applications
+applications
 - ❤️ My hobbies: music, books , football , basketball
 - 💬 Ask me about user research, visual design, design principles
 
