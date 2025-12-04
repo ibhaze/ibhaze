@@ -4,7 +4,7 @@ portfolio.
 
 ### Merging Critical Thinking, Research & Creativity.
 - 📫 You can reach me @ [ibhazepraise7@gmail.com](mailto:ibhazepraise7@gmail.com) or [510304@student.fontys.nl](mailto:510304@student.fontys.nl)
-- 🌱 I’m currently learning media design with a specialisation of smart mobile , focusing on designing & developing mobile
+- 🌱 I’m currently learning media design and also focusing on designing & developing mobile
 applications
 - ❤️ My hobbies: music, books , football , basketball
 - 💬 Ask me about user research, visual design, design principles
