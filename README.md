@@ -1,8 +1,7 @@
 ### Hi There , its Praise . Thanks for stopping by 👋 
 I'm currently studying ICT & Media Design at Fontys . Want to see my work? Check my 
 portfolio.
-
-### Merging Critical Thinking, Research & Creativity.
+ 
 - 📫 You can reach me @ [ibhazepraise7@gmail.com](mailto:ibhazepraise7@gmail.com) or [510304@student.fontys.nl](mailto:510304@student.fontys.nl)
 - 🌱 I’m currently learning media design and also focusing on designing & developing mobile
 applications
