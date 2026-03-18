@@ -1,4 +1,4 @@
-### Hi There , My Name is Praise Ibhaze 👋 
+### Hi There , its Praise . Thanks for stopping by 👋 
 I'm currently studying ICT & Media Design at Fontys . Want to see my work? Check my 
 portfolio.
 
