@@ -2,9 +2,7 @@
 I'm currently studying ICT & Media Design at Fontys . Want to see my work? Check my 
 portfolio.
  
-- 📫 You can reach me @ [ibhazepraise7@gmail.com](mailto:ibhazepraise7@gmail.com) or [510304@student.fontys.nl](mailto:510304@student.fontys.nl)
-- ❤️ My hobbies: music, books , football , basketball
-- 💬 Ask me about user research, visual design, design principles
+
 
 <!---
 ibhaze/ibhaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
